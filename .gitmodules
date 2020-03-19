@@ -1,0 +1,3 @@
+[submodule "vizsla/themes/ananke"]
+	path = vizsla/themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
