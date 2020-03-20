@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "/hungarikum/"
 languageCode = "en-us"
 title = "Hungarikum feladat"
 theme = "ananke"

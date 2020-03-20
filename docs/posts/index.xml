@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Hungarikum feladat</title>
-    <link>/posts/</link>
+    <link>/hungarikum/posts/</link>
     <description>Recent content in Posts on Hungarikum feladat</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 19 Mar 2020 19:06:09 +0100</lastBuildDate>
     
-	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/hungarikum/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Demeny</title>
-      <link>/posts/vizsla/</link>
+      <link>/hungarikum/posts/vizsla/</link>
       <pubDate>Thu, 19 Mar 2020 19:06:09 +0100</pubDate>
       
-      <guid>/posts/vizsla/</guid>
+      <guid>/hungarikum/posts/vizsla/</guid>
       <description>Vizsla   A vizsla eredete   Régi magyar vadászkutya, amely több fajta keresztezéséből alakult ki. Már honfoglaló őseink mellett, akik szenvedélyes vadászok voltak, feltűnt egy vadászkutya, amely követte őket a vándorlások során a Kárpát-medencébe.   Tenyésztési cél   A vizslák a leggyakrabban használt vadászkutyák. a kutya megmutatta a vadat, a vadász előkészülhet a lövéshez és célba veheti azt.A vizslák speciálisan erre lettek kiképezve. Nekik nem szabad a vadat elejteni.</description>
     </item>
     
