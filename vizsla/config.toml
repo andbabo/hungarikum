@@ -1,5 +1,5 @@
 baseURL = "/hungarikum/"
-languageCode = "en-us"
+languageCode = "hu-hu"
 title = "Hungarikum feladat"
 theme = "ananke"
 publishDir = "../docs"
