@@ -1,7 +1,8 @@
 ---
-title: "Demeny"
+title: "A vizsla"
 date: 2020-03-19T19:06:09+01:00
 draft: false
+summary: A vizsla egy jó kutya 
 ---
 # Vizsla
 
@@ -25,5 +26,5 @@ draft: false
   - ##### A fajta hajlamos genetikai betegségekre, mint a daganat, szív-elégtelenség, allergia, külső hallójárat gyulladása,
   
 
-  
+{{< youtube 3MjapX83_-E >}}
   
