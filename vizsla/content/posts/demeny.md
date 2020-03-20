@@ -1,7 +1,7 @@
 ---
 title: "Demeny"
 date: 2020-03-19T19:06:09+01:00
-draft: true
+draft: false
 ---
 # Vizsla
 
