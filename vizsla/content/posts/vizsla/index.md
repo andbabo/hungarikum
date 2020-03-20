@@ -5,7 +5,7 @@ draft: false
 ---
 # Vizsla
 
-![vizslák a vízben](/images/duo.jpeg)
+![vizslák a vízben](duo.jpeg)
  - ### A vizsla eredete
 
 ##### Régi magyar vadászkutya, amely több fajta keresztezéséből alakult ki. Már honfoglaló őseink mellett, akik szenvedélyes vadászok voltak, feltűnt egy vadászkutya, amely követte őket a vándorlások során a Kárpát-medencébe.
