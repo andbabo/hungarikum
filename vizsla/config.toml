@@ -1,5 +1,0 @@
-baseURL = "/hungarikum/"
-languageCode = "hu-hu"
-title = "Hungarikum feladat"
-theme = "ananke"
-publishDir = "../docs"

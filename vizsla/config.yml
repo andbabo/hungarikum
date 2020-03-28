@@ -1,0 +1,16 @@
+baseURL: "/hungarikum/"
+languageCode: "hu-hu"
+title: "Hungarikum feladat"
+theme: "ananke"
+publishDir: "../docs" 
+menu:
+  main:
+    - name: A hungarikumok listája
+      pre: <i class='fa fa-heart'></i>
+      url: /lista/
+      weight: 10
+    - name: Források
+      post: <span class='alert'>New!</span>
+      pre: <i class='fa fa-road'></i>
+      url: /forras/
+      weight: 20
