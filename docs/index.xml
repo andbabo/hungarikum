@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A hungarikumok on Hungarikum feladat</title>
+    <link>/hungarikum/</link>
+    <description>Recent content in A hungarikumok on Hungarikum feladat</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>hu-hu</language>
+    <lastBuildDate>Sat, 28 Mar 2020 15:38:03 +0100</lastBuildDate>
+    
+	<atom:link href="/hungarikum/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Forras</title>
+      <link>/hungarikum/forras/</link>
+      <pubDate>Sat, 28 Mar 2020 15:35:57 +0100</pubDate>
+      
+      <guid>/hungarikum/forras/</guid>
+      <description> hungarikum.hu wikipedia  </description>
+    </item>
+    
+    <item>
+      <title>Lista</title>
+      <link>/hungarikum/lista/</link>
+      <pubDate>Sat, 28 Mar 2020 15:34:36 +0100</pubDate>
+      
+      <guid>/hungarikum/lista/</guid>
+      <description> kaja pia vizsla kutya  </description>
+    </item>
+    
+    <item>
+      <title>A vizsla</title>
+      <link>/hungarikum/vizsla/</link>
+      <pubDate>Thu, 19 Mar 2020 19:06:09 +0100</pubDate>
+      
+      <guid>/hungarikum/vizsla/</guid>
+      <description>A vizsla egy jó kutya</description>
+    </item>
+    
+  </channel>
+</rss>
