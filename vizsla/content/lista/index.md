@@ -1,5 +1,5 @@
 ---
-title: "Lista"
+title: "A hungarikumok listája"
 date: 2020-03-28T15:34:36+01:00
 draft: false
 ---
@@ -13,7 +13,7 @@ draft: false
     - Egri bikavér
     - Magyar akác
     - Magyar akácméz
-    - Kűrtőskalács
+    - Kürtőskalács
     - HERZ Classic téliszalámi
     - Gyulai kolbász
     - Hízott liba
