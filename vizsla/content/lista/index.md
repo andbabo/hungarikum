@@ -7,7 +7,7 @@ draft: false
 
     - Alföldi kamillavirágzat
     - Fröccs
-    - [Magyar pásztor- és vadászkutyafajták](vizsla/)
+    - [Magyar pásztor- és vadászkutyafajták](../vizsla/)
     - Csabai kolbász
     - Debreceni páros kolbász
     - Egri bikavér
