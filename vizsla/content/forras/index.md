@@ -5,4 +5,4 @@ draft: false
 ---
 
 - [hungarikum.hu](https://hungarikum.hu) 
-- [wikipedia](https://wikipedia.com)
+- [wikipedia](http://wikipedia.com)
